@@ -1,0 +1,15 @@
+C:\Users\micha\Desktop\Проекты\Library\ZipPlugin\bin\Debug\netstandard2.0\PluginInterface.dll
+C:\Users\micha\Desktop\Проекты\Library\ZipPlugin\obj\Debug\netstandard2.0\ZipPlugin.csprojAssemblyReference.cache
+C:\Users\micha\Desktop\Проекты\Library\ZipPlugin\obj\Debug\netstandard2.0\ZipPlugin.csproj.CoreCompileInputs.cache
+C:\Users\micha\Desktop\Проекты\Library\ZipPlugin\obj\Debug\netstandard2.0\ZipPlugin.AssemblyInfoInputs.cache
+C:\Users\micha\Desktop\Проекты\Library\ZipPlugin\obj\Debug\netstandard2.0\ZipPlugin.AssemblyInfo.cs
+C:\bin\Debug\netstandard2.0\ZipPlugin.deps.json
+C:\bin\Debug\netstandard2.0\ZipPlugin.dll
+C:\bin\Debug\netstandard2.0\ZipPlugin.pdb
+C:\Users\Максим\Desktop\Library\Library\ZipPlugin\obj\Debug\netstandard2.0\ZipPlugin.csprojAssemblyReference.cache
+C:\Users\Максим\Desktop\Library\Library\ZipPlugin\obj\Debug\netstandard2.0\ZipPlugin.csproj.CoreCompileInputs.cache
+C:\Users\Максим\Desktop\Library\Library\ZipPlugin\obj\Debug\netstandard2.0\ZipPlugin.AssemblyInfoInputs.cache
+C:\Users\Максим\Desktop\Library\Library\ZipPlugin\obj\Debug\netstandard2.0\ZipPlugin.AssemblyInfo.cs
+C:\Users\Максим\Desktop\Library\Library\ZipPlugin\obj\Debug\netstandard2.0\ZipPlugin.csproj.CopyComplete
+C:\Users\Максим\Desktop\Library\Library\ZipPlugin\obj\Debug\netstandard2.0\ZipPlugin.dll
+C:\Users\Максим\Desktop\Library\Library\ZipPlugin\obj\Debug\netstandard2.0\ZipPlugin.pdb
